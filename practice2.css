@@ -1,0 +1,22 @@
+h1{
+    font-size: 20px;
+}
+
+body{
+    background-color: cornsilk;
+}
+
+#pic{
+    width: 200px;
+}
+
+#workout{
+    border: 10px, red, double;
+}
+
+#equipment{
+    border: red, dotted, 5px;
+    margin: 100px;
+    padding: 100px;
+    font-size: larger;
+}
